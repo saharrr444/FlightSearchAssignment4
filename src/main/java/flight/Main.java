@@ -1,4 +1,3 @@
-/** Minimal console entry for manual runs. */
 package flight;
 
 public class Main {
