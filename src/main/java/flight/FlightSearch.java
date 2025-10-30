@@ -1,4 +1,4 @@
-/** FlightSearch – refactored for 2025 spec (same‑day return allowed). */
+
 package flight;
 
 import java.time.LocalDate;
