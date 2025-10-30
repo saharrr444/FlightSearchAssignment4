@@ -2,3 +2,8 @@
 .project
 .settings/
 bin/
+.metadata/
+bin/
+.classpath
+.project
+.settings/
