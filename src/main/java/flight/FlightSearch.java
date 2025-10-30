@@ -1,4 +1,3 @@
-
 package flight;
 
 import java.time.LocalDate;
