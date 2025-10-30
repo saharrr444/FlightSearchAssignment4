@@ -1,4 +1,4 @@
-/** FlightSearchTest – JUnit 5 boundary tests incl. same‑day return. */
+/** FlightSearchTest – JUnit 5 boundary tests include same‑day return. */
 package flight;
 
 import static org.junit.jupiter.api.Assertions.*;
